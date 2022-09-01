@@ -1,4 +1,4 @@
-Life-expectancy-prediction
+Life-expectancy-prediction:
 Objective
 Objective is to develop a model which predicts the life expectancy in a country based on different features
 
