@@ -14,6 +14,15 @@ The observations this dataset are based on different countries, it will be easie
 * Model evaluation
 * Parameter tuning
 * Model performance
+## Features considered
+
+![Features considered](https://user-images.githubusercontent.com/93317185/188927745-9f38ca34-b6e7-4748-bc89-87fbb69635f6.png)
+
+## Cleaned data
+
+![Cleaned data](https://user-images.githubusercontent.com/93317185/188927858-408ef1e4-e1fb-4daa-92f6-81f8e4d3a1ce.png)
+
+
 
 ## Developed a linear regression model
 R Squared : 0.8213194288487609
